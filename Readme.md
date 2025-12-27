@@ -66,3 +66,8 @@ Aggregates validation accuracy results from three different approaches—standar
 <p align="center">
   <img src="imgs/xgboost_strategies_performance.png" width="600">
 </p>
+
+---
+© Ashkan M., NTNU  
+Released under the MIT License
+---
